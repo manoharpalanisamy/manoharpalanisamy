@@ -1,66 +1,46 @@
 # Hi there 👋
 
-## 🌱 I’m currently learning ...
-- Deepening my knowledge in Generative AI and its applications.
+I'm Manohar Palanisamy, passionate about AI and ML with a focus on Generative AI and NLP.
 
-## 👯 I’m looking to collaborate on ...
-- AI and ML projects, especially those involving NLP and generative models.
+## 🌱 Learning
+Generative AI and its applications.
 
-## 💬 Ask me about ...
-- Anything related to AI, ML, and the technologies I work with.
+## 👯 Collaboration
+AI and ML projects, especially NLP and generative models.
 
-## 📫 How to reach me ...
+## 💬 Ask Me About
+AI, ML, and related technologies.
+
+## 📫 Contact
 - Email: [email@decodeai.in](mailto:email@decodeai.in)
-
-Welcome to my GitHub profile! Here's a glimpse of the technologies I work with:
+- LinkedIn: [Manohar Palanisamy](https://www.linkedin.com/in/manoharpalanisamy)
 
 ## 🛠️ Tech Stack
-
-### ☁️ Cloud Platforms
-- **AWS**: AppRunner, Lambda, EC2, S3, API Gateway, IAM, SageMaker, ECR
-
-### 💻 Programming
-- **Languages**: Python, FastAPI
-
-### 📦 Containers
-- **Docker**
-
-### 🤖 Generative AI
-- **APIs & Tools**: Langchain, OpenAI, Bedrock, Meta Llama3, Ollama, HuggingFace, Google Generative AI, GROQ, Mistral, Cohere
-
-### 🗄️ Vector Databases
+- **Cloud**: AWS (AppRunner, Lambda, EC2, S3, API Gateway, IAM, SageMaker, ECR)
+- **Programming**: Python, FastAPI
+- **Containers**: Docker
+- **Generative AI**: Langchain, OpenAI, Bedrock, Meta Llama3, Ollama, HuggingFace, Google Generative AI, GROQ, Mistral, Cohere
 - **Databases**: Pinecone, Chromedb, FAISS
-
-### 🔄 CI/CD
-- **Workflows**: GitHub Actions
-
-### 📊 Monitoring
-- **Tools**: LangSmith, AWS CloudWatch
-
-### 🖥️ User Interfaces
-- **Frameworks**: Streamlit, Gradio
-
-Feel free to explore my repositories and get in touch!
-
+- **CI/CD**: GitHub Actions
+- **Monitoring**: LangSmith, AWS CloudWatch
+- **UI**: Streamlit, Gradio
 
 ## 🔍 Featured Projects
+1. **[Document Q&A RAG Application](https://github.com/manoharpalanisamy/Build-and-deploy-RAG-in-AWS-lambda-ECR-docker-langchain-Huggingface-)**
+   - Intelligent document-based Q&A using AWS and Langchain.
 
-1. **[Build-and-deploy-RAG-in-AWS-lambda-ECR-docker-langchain-Huggingface-](https://github.com/manoharpalanisamy/Build-and-deploy-RAG-in-AWS-lambda-ECR-docker-langchain-Huggingface-)**
-   - The Document Question and Answering RAG Application provides intelligent and accurate responses to questions based on the content of uploaded documents.
-
-2. **[Updated-Langchain-Series](https://github.com/manoharpalanisamy/Updated-Langchain-Series)**
-   - Showcases various applications and integrations using Langchain for advanced NLP tasks, including ChatBot, Chains, Agents, Tools, LangServe, and LangSmith.
+2. **[Langchain Series](https://github.com/manoharpalanisamy/Updated-Langchain-Series)**
+   - Advanced NLP with Langchain.
 
 3. **[InvoiceExtractorGenAI](https://github.com/manoharpalanisamy/InvoiceExtractorGenAI)**
-   - Automates invoice data extraction with Google's Generative AI and advanced NLP techniques, featuring a user-friendly Streamlit interface.
+   - Automated invoice extraction with Google's Generative AI and Streamlit.
 
-4. **[ChatGPT-MCQ-Generator](https://github.com/manoharpalanisamy/ChatGPT-MCQ-Generator)**
-   - Generates multiple-choice questions effortlessly using OpenAI's chatGPT-3.5-turbo model.
+4. **[ChatGPT MCQ Generator](https://github.com/manoharpalanisamy/ChatGPT-MCQ-Generator)**
+   - Generates multiple-choice questions using OpenAI's ChatGPT-3.5-turbo.
 
-5. **[TextToSQLGenerativeAI](https://github.com/manoharpalanisamy/TextToSQLGenerativeAI)**
-   - Transforms natural language queries into SQL database queries using Google's Generative AI and Streamlit for a seamless user experience.
-  
+5. **[TextToSQL Generative AI](https://github.com/manoharpalanisamy/TextToSQLGenerativeAI)**
+   - Natural language to SQL query transformation using Google's Generative AI and Streamlit.
+
 Feel free to explore my repositories and connect with me!
 
 [GitHub Profile](https://github.com/manoharpalanisamy/)
-
