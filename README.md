@@ -15,7 +15,7 @@ AI and ML projects, especially NLP and generative models.
 
 
 ## 🛠️ Tech Stack
-- **Cloud**: AWS (AppRunner, Lambda, EC2, S3, API Gateway, IAM, SageMaker, ECR)
+- **Cloud**: AWS (Bedrock, SageMaker, AppRunner, Lambda, EC2, S3, API Gateway, IAM, ECR)
 - **Programming**: Python, Java, FastAPI
 - **Containers**: Docker
 - **Generative AI & Tools**: Langchain, OpenAI, Bedrock, Meta Llama3, Ollama, HuggingFace, Google Generative AI, GROQ, Mistral, Cohere
