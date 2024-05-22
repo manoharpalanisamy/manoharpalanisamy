@@ -9,8 +9,10 @@ Generative AI and its applications.
 AI and ML projects, especially NLP and generative models.
 
 ## 📫 Contact
+- Blog: [DecodeAI](https://decodeai.in)
 - Email: [email@decodeai.in](mailto:email@decodeai.in)
 - LinkedIn: [Manohar Palanisamy](https://www.linkedin.com/in/manoharpalanisamy)
+
 
 ## 🛠️ Tech Stack
 - **Cloud**: AWS (AppRunner, Lambda, EC2, S3, API Gateway, IAM, SageMaker, ECR)
