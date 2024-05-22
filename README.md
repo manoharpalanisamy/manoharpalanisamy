@@ -12,57 +12,36 @@
 ## 📫 How to reach me ...
 - Email: [email@decodeai.in](mailto:email@decodeai.in)
 
-Feel free to explore my repositories and connect with me!
+Welcome to my GitHub profile! Here's a glimpse of the technologies I work with:
 
-[GitHub Profile](https://github.com/manoharpalanisamy/)
+## 🛠️ Tech Stack
 
+### ☁️ Cloud Platforms
+- **AWS**: AppRunner, Lambda, EC2, S3, API Gateway, IAM, SageMaker, ECR
 
-## 🛠️ Technologies I Work With
+### 💻 Programming
+- **Languages**: Python, FastAPI
 
-### Cloud Platforms
-- **AWS**
-  - AppRunner
-  - Lambda
-  - EC2, S3
-  - API Gateway
-  - IAM
-  - SageMaker
-  - ECR
+### 📦 Containers
+- **Docker**
 
-### Programming Languages
-- Python
-- FastAPI
+### 🤖 Generative AI
+- **APIs & Tools**: Langchain, OpenAI, Bedrock, Meta Llama3, Ollama, HuggingFace, Google Generative AI, GROQ, Mistral, Cohere
 
-### Container Technologies
-- Docker
+### 🗄️ Vector Databases
+- **Databases**: Pinecone, Chromedb, FAISS
 
-### Generative AI
-- Langchain
-- OpenAI
-- Bedrock API
-- Meta Llama3
-- Ollama
-- HuggingFace API
-- Google Generative AI
-- GROQ API
-- Mistral API
-- Cohere API
+### 🔄 CI/CD
+- **Workflows**: GitHub Actions
 
-### Vector Databases
-- Pinecone
-- Chromedb
-- FAISS
+### 📊 Monitoring
+- **Tools**: LangSmith, AWS CloudWatch
 
-### CI/CD Workflows
-- GitHub Actions
+### 🖥️ User Interfaces
+- **Frameworks**: Streamlit, Gradio
 
-### Monitoring
-- LangSmith
-- AWS CloudWatch
+Feel free to explore my repositories and get in touch!
 
-### User Interfaces
-- Streamlit
-- Gradio
 
 ## 🔍 Featured Projects
 
@@ -80,4 +59,8 @@ Feel free to explore my repositories and connect with me!
 
 5. **[TextToSQLGenerativeAI](https://github.com/manoharpalanisamy/TextToSQLGenerativeAI)**
    - Transforms natural language queries into SQL database queries using Google's Generative AI and Streamlit for a seamless user experience.
+  
+Feel free to explore my repositories and connect with me!
+
+[GitHub Profile](https://github.com/manoharpalanisamy/)
 
