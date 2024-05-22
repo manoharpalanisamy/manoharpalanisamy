@@ -1,5 +1,21 @@
 # Hi there 👋
 
+## 🌱 I’m currently learning ...
+- Deepening my knowledge in Generative AI and its applications.
+
+## 👯 I’m looking to collaborate on ...
+- AI and ML projects, especially those involving NLP and generative models.
+
+## 💬 Ask me about ...
+- Anything related to AI, ML, and the technologies I work with.
+
+## 📫 How to reach me ...
+- Email: [email@decodeai.in](mailto:email@decodeai.in)
+
+Feel free to explore my repositories and connect with me!
+
+[GitHub Profile](https://github.com/manoharpalanisamy/)
+
 
 ## 🛠️ Technologies I Work With
 
@@ -65,18 +81,3 @@
 5. **[TextToSQLGenerativeAI](https://github.com/manoharpalanisamy/TextToSQLGenerativeAI)**
    - Transforms natural language queries into SQL database queries using Google's Generative AI and Streamlit for a seamless user experience.
 
-## 🌱 I’m currently learning ...
-- Deepening my knowledge in Generative AI and its applications.
-
-## 👯 I’m looking to collaborate on ...
-- AI and ML projects, especially those involving NLP and generative models.
-
-## 💬 Ask me about ...
-- Anything related to AI, ML, and the technologies I work with.
-
-## 📫 How to reach me ...
-- Email: [email@decodeai.in](mailto:email@decodeai.in)
-
-Feel free to explore my repositories and connect with me!
-
-[GitHub Profile](https://github.com/manoharpalanisamy/)
