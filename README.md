@@ -5,11 +5,8 @@ I'm Manohar Palanisamy, passionate about AI and ML with a focus on Generative AI
 ## 🌱 Learning
 Generative AI and its applications.
 
-## 👯 Collaboration
+## 🔗 Collaboration
 AI and ML projects, especially NLP and generative models.
-
-## 💬 Ask Me About
-AI, ML, and related technologies.
 
 ## 📫 Contact
 - Email: [email@decodeai.in](mailto:email@decodeai.in)
@@ -17,9 +14,9 @@ AI, ML, and related technologies.
 
 ## 🛠️ Tech Stack
 - **Cloud**: AWS (AppRunner, Lambda, EC2, S3, API Gateway, IAM, SageMaker, ECR)
-- **Programming**: Python, FastAPI
+- **Programming**: Python, Java, FastAPI
 - **Containers**: Docker
-- **Generative AI**: Langchain, OpenAI, Bedrock, Meta Llama3, Ollama, HuggingFace, Google Generative AI, GROQ, Mistral, Cohere
+- **Generative AI & Tools**: Langchain, OpenAI, Bedrock, Meta Llama3, Ollama, HuggingFace, Google Generative AI, GROQ, Mistral, Cohere
 - **Databases**: Pinecone, Chromedb, FAISS
 - **CI/CD**: GitHub Actions
 - **Monitoring**: LangSmith, AWS CloudWatch
