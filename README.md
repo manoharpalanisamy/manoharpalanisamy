@@ -1,6 +1,5 @@
 # Hi there 👋
 
-Hello! I'm Manohar Palanisamy, passionate about exploring the intersection of artificial intelligence and machine learning, with a keen interest in generative AI, Fine Tuning, RAG, and natural language processing.
 
 ## 🛠️ Technologies I Work With
 
