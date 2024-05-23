@@ -13,7 +13,7 @@ AI and ML projects, especially NLP and generative models.
 - Email: [email@decodeai.in](mailto:email@decodeai.in)
 - LinkedIn: [Manohar Palanisamy](https://www.linkedin.com/in/manoharpalanisamy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/manoharpalanisamy/github-readme-stats)
+[![Manohar Palanisamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoharpalanisamy)](https://github.com/manoharpalanisamy/github-readme-stats)
 
 
 ## 🛠️ Tech Stack
