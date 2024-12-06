@@ -9,8 +9,8 @@ Generative AI and its applications.
 AI and ML projects, especially NLP and generative models.
 
 ## 📫 Contact
-- Blog: [DecodeAI](https://decodeai.in)
-- Email: [email@decodeai.in](mailto:email@decodeai.in)
+- Blog: [DecodeAI](https://manoharpalanisamy-com-git-master-send2manoo.vercel.app)
+- Email: [email@decodeai.in](mailto:manoharpalanisamy@icloud.com)
 - LinkedIn: [Manohar Palanisamy](https://www.linkedin.com/in/manoharpalanisamy)
 
 [![Manohar Palanisamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoharpalanisamy)](https://github.com/manoharpalanisamy/github-readme-stats)
@@ -20,7 +20,7 @@ AI and ML projects, especially NLP and generative models.
 - **Cloud**: AWS (Bedrock, SageMaker, AppRunner, Lambda, EC2, S3, API Gateway, IAM, ECR)
 - **Programming**: Python, Java, FastAPI
 - **Containers**: Docker
-- **Generative AI & Tools**: Langchain, OpenAI, Bedrock, Meta Llama3, Ollama, HuggingFace, Google Generative AI, GROQ, Mistral, Cohere
+- **Generative AI & Tools**: Langchain, LlamaIndex, OpenAI, Bedrock, Meta Llama3, Ollama, HuggingFace, Google Generative AI, GROQ, Mistral, Cohere
 - **Databases**: Pinecone, Chromedb, FAISS
 - **CI/CD**: GitHub Actions
 - **Monitoring**: LangSmith, AWS CloudWatch
