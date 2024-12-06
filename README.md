@@ -10,7 +10,7 @@ AI and ML projects, especially NLP and generative models.
 
 ## 📫 Contact
 - Blog: [DecodeAI](https://manoharpalanisamy-com-git-master-send2manoo.vercel.app)
-- Email: [email@decodeai.in](mailto:manoharpalanisamy@icloud.com)
+- Email: [manoharpalanisamy@icloud.com](mailto:manoharpalanisamy@icloud.com)
 - LinkedIn: [Manohar Palanisamy](https://www.linkedin.com/in/manoharpalanisamy)
 
 [![Manohar Palanisamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoharpalanisamy)](https://github.com/manoharpalanisamy/github-readme-stats)
