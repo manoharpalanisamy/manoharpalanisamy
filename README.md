@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Manohar Palanisamy, an AI and ML enthusiast with a strong focus on Generative AI and NLP. I bring over 8 years of solid experience in AI, NLP, and software development, and I’m currently dedicated to building cutting-edge Generative AI products.
+I'm Manohar Palanisamy, an AI and ML enthusiast with a strong focus on Generative AI and NLP. I bring over 9 years of solid experience in AI, NLP, and software development, and I’m currently dedicated to building cutting-edge Generative AI products.
 
 ## 🌱 Learning
 Generative AI and its applications.
